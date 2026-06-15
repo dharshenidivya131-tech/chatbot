@@ -1,11 +1,11 @@
 ---
 title: Mental Health Chatbot
-emoji: 👁
+emoji: 🧠
 colorFrom: red
-colorTo: red
+colorTo: blue
 sdk: gradio
 sdk_version: 6.18.0
-python_version: '3.13'
+python_version: '3.10'
 app_file: app.py
 pinned: false
 license: mit
